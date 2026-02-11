@@ -23,7 +23,7 @@ Finally, the workflow **runs** the simulation. If successful then it will quietl
 If any of the `assert` statements fail then GHDL will cease the simulation and exit with non-zero code; this will also cause the workflow to fail.
 Assert statements of other severity levels will be reported, but not fail the workflow.
 
-![cases 15+15+1, 0+0+0, 9+4+1, 0+10+0, 4+5+1, and 4+5+0 tested](/c/Users/C28Jackson.Warner/OneDrive - afacademy.af.edu/Pictures/Screenshots/Screenshot 2026-02-11 150210.png)
+![cases 15+15+1, 0+0+0, 9+4+1, 0+10+0, 4+5+1, and 4+5+0 tested](https://usafa0-my.sharepoint.com/:i:/g/personal/c28jackson_warner_afacademy_af_edu/IQAB3hX0cvJmQYiFld75UIZSAbq-nHpzi43_O_sdmYuaj0k?e=c2LUaS)
 
 ## Documentation 
 
